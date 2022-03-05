@@ -1,21 +1,17 @@
 # Homework_3-12
-
-## # Ripple homework due 3-12
-
 ## Overview and Origin
 
-* Name of company- Ripple (XRP)
+**Name of company- _Ripple_ (XRP)**
 
 When was the company incorporated?
-Ripple first comes in 2004 Ryan Fugger software dev, 
-Programmer jed McCaleb in 2011
-Went by different names such as new coin, open coin, then ripple.
+Ripple first comes in 2004 _Ryan Fugger_ software dev, 
+Programmer _jed McCaleb_ in 2011. 
+Went by different names such as **new coin, open coin, then ripple**
 
-Who are the founders of the company 
-Cofounders: Jed McCaleb,  Chris Larsen, and Ryan fugger 
+## Who are the founders of the company ##
+Cofounders: _Jed McCaleb,  Chris Larsen, and Ryan fugger_
 How did the idea for the company (or project) come about?
 This came about when the Internet of Value (IoV) started to move just as fast as data does. In 2012 to make borderless transactions more mainstream and easier to use. 
-
 How is the company funded? How much funding have they received?
 
  Total as of march 1, 2021- 293.8 million in 14 different funding rounds. 
