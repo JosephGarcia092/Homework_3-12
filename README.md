@@ -1,80 +1,107 @@
-# Ripple homework due 3-12
+## Ripple (XRP) - Fintech Case Study
 
-## Overview and Origin
+***
 
-* Name of company- Ripple (XRP)
+**RIPPLE (XRP)**
 
-When was the company incorporated?
-Ripple first comes in 2004 Ryan Fugger software dev, 
-Programmer jed McCaleb in 2011
-Went by different names such as new coin, open coin, then ripple.
+ ![Ripple Logo](https://1000logos.net/ripple-logo/) 
+ 
+ ___
+ 
+### ORGINS ###
 
-Who are the founders of the company 
+___
 
-Cofounders: Jed McCaleb,  Chris Larsen, and Ryan fugger 
-How did the idea for the company (or project) come about?
-This came about when the Internet of Value (IoV) started to move just as fast as data does. In 2012 to make borderless transactions more mainstream and easier to use. 
-
-How is the company funded? How much funding have they received?
-
- Total as of march 1, 2021- 293.8 million in 14 different funding rounds. 
+- 2004 with **Ryan Fugger** before blockchain was introduced to the public
+- 2012 offically with the name **OpenCoin**, Ledger offically launded 
+- 2015 with a Few new Management Additions the time came for the Offical Name change to **Ripple** 
+- The idea of securly transacting money around the world started in 2004 with **Ryan Fugger** within time grew to have over 300+ Financial Institutions join
+the Ledger to take the next step for cross-border transactions.
+- Total as of march 1, 2021- 293.8 million in 14 different funding rounds. 
 With a total of 38 investors including 5 lead investors
+
+________
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
-They company is trying to solve the intercontinental use of Wealth Management. Basically a upgrade to the swift system using blockchain tech. Making the transactions and operability to exchanges much faster and larger. “Our mission is to make cross-border payments truly efficient for banks and their customers, and in doing so, lay the foundation for an Internet of Value where the world moves money as easily as information,” Ripple CEO Chris Larsen
+_____
 
-Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-The Intended Consumer is the Infrastructure of the Global payment systems SWIFT. With Swift being a huge interbank Financial Telecommunications company the market Impact is HUGE.
+- The company is trying to solve the intercontinental use of Wealth Management. In Laymans Terms, a upgrade to the swift system using blockchain technology making the transactions and operability much more robust. 
 
-*What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-Ripple uses Lower gas fees (fees to process transactions), utilizes a different method to validate the transactions on the network. Ripple uses a consensus mechanism to validate transactions in which participating nodes verify the authenticity of a transaction by conducting a poll. Compared to bitcoin, ripple’s consensus mechanism consumes less, which has smaller fees for transactions, also transactions can be confirmed within seconds as opposed to minutes.
+- “Our mission is to make cross-border payments truly efficient for banks and their customers, and in doing so, lay the foundation for an Internet of Value where the world moves money as easily as information.” Ripple CEO _Chris Larsen_
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company's engineering blog or use sites like Stackshare to find this information.)
-With in Ripple, the company has different Technologies that have Grown over the last decade. The Interledger Protocol, RippleNet, RippleX
-Interledger Protocol (ILP)-The Interledger Protocol uses the concept of cryptographic escrow to enable the passage of funds through connectors or nodes in the network Landscape:
-RippleNet- Offers connections to hundred of Financial Institutions around the world via a single API and makes moving money faster, cheaper and more reliable. 
-RippleX- Provides Tools, Infrastructure, Services and Support for Creation of Programs on the Open XRP Ledger. 
+- The Intended Consumer is the Infrastructure of the Global payment systems SWIFT. With Swift being a huge Interbank Financial Telecommunications company, the average time for transactions right now are about 3-5 up to 7 days to process and clear. The market Impact would  be **HUGE**.
+
+ - The Solutions that Ripple Provide are uses Lower gas fees (fees to process transactions), utilizes a different method to validate the transactions on the network. Ripple uses a consensus mechanism to validate transactions in which participating nodes verify the authenticity of a transaction by conducting a poll. Compared to bitcoin, ripple’s consensus mechanism consumes less, which has smaller fees for transactions, also transactions can be confirmed within seconds as opposed to minutes.
+____
+
+**Buisness Advancements**
+
+- With in Ripple, the company has different Advancements that have Grown over the last decade.
+
+- Interledger Protocol (ILP)-The Interledger Protocol uses the concept of cryptographic escrow to enable the passage of funds through connectors or nodes in the network Landscape:
+
+- RippleNet- Offers connections to hundred of Financial Institutions around the world via a single API and makes moving money faster, cheaper and more reliable. 
+
+- RippleX- Provides Tools, Infrastructure, Services and Support for Creation of Programs on the Open XRP Ledger. 
+___
+
+**LandScape**
+
+- Ripple Generally is in the Wealth Management Domain with trying to upgrade the SWIFT system. 
+- over the last 10 years major Innovations came to furition.
+ - Interledger Protocl (ILP)
+- RippleNet Growth over 300+ Financial Institutions
+- Within RippleX
+ - Interledger 
+ - Pay string
+- These major innovations have been helpful to scale and build on the Blockchain to grwo the Open ledger of RippleX
+-The Buisness has Impacted not only Banks or Financial Institutions but also Universities to further Blockchain Research for future uses and integration into our everyday lives.
+---
+
+**Results**
+--
+- Metrics to Measure **Ripple vs Bitcoin*
+- **Fees**
+
+  _Ripple_ - .0001558 (XRP)  
+  _Bitcoin_ - $1.78-68 (USD)
+ 
+- **Consensus model** 
+
+  _Ripple_ - Consensus model  
+  _Bitcoin_ - Proof-of-work
+
+- **Transaction Speed**
+
+  _Ripple_ 3-5 Seconds  
+  _Bitcoin_  3-5 mintues
+  
+- **power Usage** 
+
+   _Ripple_ - .0079 KWh  
+   _Bitcoin_ - 700 Kwh
+
+- Ripple is among the many with low transaction fees ,low energy consumption, with a near instant consensus model for transactions. With the type of Data that is being transferred between parties can vary the Fees associtated with transactions. Larger Data = Higher Fees.
 
 
-**What domain of the financial industry is the company in?
-*What have been the major trends and innovations of this domain over the last 5-10 years?
-What are the other major companies in this domain?
-Wealth Management
-The Ledger, Interledger, pay string 
-With the Three Protocols Within RippleX : Ripple Ledger, Interledger, and Paystring. To help Scale and build on the Blockchain and Open Ledger of RippleX
-What has been the business impact of this company so far?
-The three protocols of RippleX 
+## Recommendations ##
 
-What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-Energy consumption ripple - .0079Kwh Stellar Lumen -.00022
-Fees ripple .0001 XRP Stellar lumen- .00001XLM  
-Consensus model - both offer their own consensus model. 
-How is your company performing relative to competitors in the same domain?
-Ripple is among the many with low transaction fees ,low energy consumption, with a near instant consensus model for transactions. 
+___
 
-## Recommendations
+- Helping Countries that do not have access to a bank or do not use a bank due to the High Fees.Would be a new start and a Recommendation that i would present the company Ripple. Having the low costing fees, low energy consumption, transactions being near instant this can help those who are in a poverty stricken area can get the access and help they are looking for. This will not only upgrade the swift system, also bridge ripple to those who are looking to develop. The Technologies that would take the next step for Ripple would be.
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-* Why do you think that offering this product or service would benefit the company? Helping Countries that do not have access to a bank or do not use a bank due to the High Fees. Having the low costing fees, low energy consumption, transactions being near instant this can help those who are in a poverty stricken area can get the access and help they are looking for. This will not only upgrade the swift system, also bridge ripple to those who are looking to develop.  
+- Create a Wallet or some type of “savings account” that would need to be able to be used in the local region and also to be readily able to convert into a Fiat Currency. 
+- Mass Adoption in the Local Region 
 
-What technologies would this additional product or service utilize?
-Create a Wallet or some type of “savings account” that would need to be able to be used in the local region and also to be readily able to convert into a Fiat Currency. 
-Mass Adoption in the Local Region 
+- Simple, Clean, Basic UI
 
-Simple, Clean, Basic UI
-
-Why are these technologies appropriate for your solution?
 These Technologies would make the the bridge with the swift system not only upgrade the system, but it would further be inclusive with those who do not have access a bank. A Simple,Clean,Basic UI the interactions of the User would make for a smooth transaction in the Local region to be able to covert to the local Fiat currency. 
 
+**Resources:** 
+___
 
-
-
-
-
-Resources: 
 https://bernardmarr.com/what-is-the-difference-between-bitcoin-and-ripple/#:~:text=Ripple%20v%20Bitcoin&text=Bitcoin%20is%20based%20on%20blockchain,sometimes%20referred%20to%20as%20Ripples).
 
 https://ripple.com/
@@ -93,7 +120,5 @@ https://interledger.org/uploads/interledger.pdf
 
 https://fortune.com/2020/06/18/ripple-launches-universal-payment-id-but-will-anyone-use-it/
 
-https://www.investopedia.com/terms/i/interledger-protocol.asp
-
-https://www.stellar.org
+https://xrpl.org/assets/pdf/xrpl-sustainability-methodology-2020.pdf
 
